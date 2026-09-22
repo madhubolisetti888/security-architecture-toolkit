@@ -14,12 +14,26 @@ A collection of practical templates and frameworks for Security Architects, Engi
 
 The goal of this repository is to provide reusable resources that help teams integrate security into architecture and design decisions.
 
-## Resources
+## Available Resources
 
-### Architecture Review Checklist
-A practical checklist to support secure architecture reviews.
+### Architecture Review
+- Architecture Review Checklist
+- Security Architecture Questions
+- Architecture Review Template
 
-*(More templates coming soon.)*
+### Threat Modeling
+- Threat Model Template
+- Trust Boundary Checklist
+- Attack Path Analysis
+
+### Secure by Design
+- Secure-by-Design Checklist
+
+### Zero Trust
+- Zero Trust Assessment
+
+### Risk
+- Security Risk Assessment
 
 ## Disclaimer
 
