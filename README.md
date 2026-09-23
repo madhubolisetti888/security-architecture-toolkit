@@ -17,23 +17,7 @@ The goal of this repository is to provide reusable resources that help teams int
 ## Available Resources
 
 ### Architecture Review
-- Architecture Review Checklist
-- Security Architecture Questions
-- Architecture Review Template
-
-### Threat Modeling
-- Threat Model Template
-- Trust Boundary Checklist
-- Attack Path Analysis
-
-### Secure by Design
-- Secure-by-Design Checklist
-
-### Zero Trust
-- Zero Trust Assessment
-
-### Risk
-- Security Risk Assessment
+- [Architecture Review Checklist] (architecutre-review/security-questions.md)
 
 ### Zero Trust
 
