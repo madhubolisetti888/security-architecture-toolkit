@@ -239,21 +239,6 @@ Then identify:
 
 This turns Zero Trust from a product initiative into an architectural discipline.
 
-⸻
-
-Simple Assessment Matrix
-
-Domain	Key Question	
-Identity	Is every access request tied to a known identity?
-Device/Workload	Is posture considered?
-Authorization	Is least privilege enforced?	
-Network	Is lateral movement restricted?
-Application/API	Is authorization enforced at the resource layer?	
-Data	Is sensitive data independently protected?
-Telemetry	Are access decisions observable?	
-Continuous Evaluation	Can access change when risk changes?	
-Blast Radius	Is compromise contained?	
-Resilience	What happens when a control fails?
 
 ⸻
 
@@ -264,7 +249,11 @@ Zero Trust is not “never trust.”
 It is:
 
 Minimize implicit trust.
+
 Make access explicit.
+
 Continuously evaluate context.
+
 Limit blast radius.
+
 Design for compromise.
