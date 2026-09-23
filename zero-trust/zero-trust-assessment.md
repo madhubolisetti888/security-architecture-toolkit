@@ -208,19 +208,7 @@ Zero Trust Architecture Model
 
 A useful architectural sequence is:
 
-Identity
-↓
-Context
-↓
-Policy
-↓
-Authorization
-↓
-Resource
-↓
-Telemetry
-↓
-Continuous Evaluation
+Identity -> Context -> Policy -> Authorization -> Resource -> Telemetry -> Continuous Evaluation
 
 The objective is not to eliminate all risk.
 
@@ -255,17 +243,17 @@ This turns Zero Trust from a product initiative into an architectural discipline
 
 Simple Assessment Matrix
 
-Domain	Key Question	Status
-Identity	Is every access request tied to a known identity?	☐
-Device/Workload	Is posture considered?	☐
-Authorization	Is least privilege enforced?	☐
-Network	Is lateral movement restricted?	☐
-Application/API	Is authorization enforced at the resource layer?	☐
-Data	Is sensitive data independently protected?	☐
-Telemetry	Are access decisions observable?	☐
-Continuous Evaluation	Can access change when risk changes?	☐
-Blast Radius	Is compromise contained?	☐
-Resilience	What happens when a control fails?	☐
+Domain	Key Question	
+Identity	Is every access request tied to a known identity?
+Device/Workload	Is posture considered?
+Authorization	Is least privilege enforced?	
+Network	Is lateral movement restricted?
+Application/API	Is authorization enforced at the resource layer?	
+Data	Is sensitive data independently protected?
+Telemetry	Are access decisions observable?	
+Continuous Evaluation	Can access change when risk changes?	
+Blast Radius	Is compromise contained?	
+Resilience	What happens when a control fails?
 
 ⸻
 
