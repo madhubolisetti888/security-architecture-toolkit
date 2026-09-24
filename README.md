@@ -24,6 +24,10 @@ The goal of this repository is to provide reusable resources that help teams int
 
 - [Zero Trust Architecture Assessment](zero-trust/zero-trust-assessment.md)
 
+### Identity Architecture
+
+- [Identity Architecture Review](identity/identity-architecture-review.md)
+
 ## Disclaimer
 
 The content in this repository reflects personal views and industry practices. It does not represent the views of any employer, customer, or organization.
