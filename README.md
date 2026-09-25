@@ -23,6 +23,7 @@ The goal of this repository is to provide reusable resources that help teams int
 ### Zero Trust
 
 - [Zero Trust Architecture Assessment](zero-trust/zero-trust-assessment.md)
+- [Identity + Zero Trust Architecture](zero-trust/identity-zero-trust-architecture.md)
 
 ### Identity Architecture
 
