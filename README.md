@@ -26,8 +26,8 @@ The goal of this repository is to provide reusable resources that help teams int
 - [Identity + Zero Trust Architecture](zero-trust/identity-zero-trust-architecture.md)
 
 ### Identity Architecture
-
 - [Identity Architecture Review](identity/identity-architecture-review.md)
+- [Machine Identity Architecture Review](identity/machine-identity-architecture-review.md)
 
 ## Disclaimer
 
