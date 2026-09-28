@@ -29,6 +29,9 @@ The goal of this repository is to provide reusable resources that help teams int
 - [Identity Architecture Review](identity/identity-architecture-review.md)
 - [Machine Identity Architecture Review](identity/machine-identity-architecture-review.md)
 
+### Cloud Security
+- [Cloud Security Architecture Review](cloud-security/cloud-security-architecture-review.md)
+
 ## Disclaimer
 
 The content in this repository reflects personal views and industry practices. It does not represent the views of any employer, customer, or organization.
