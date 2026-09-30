@@ -32,6 +32,7 @@ The goal of this repository is to provide reusable resources that help teams int
 ### Cloud Security
 - [Cloud Security Architecture Review](cloud-security/cloud-security-architecture-review.md)
 - [Cloud IAM Architecture Review](cloud-security/cloud-iam-architecture-review.md)
+- [Multi-Cloud Security Architecture](cloud-security/multi-cloud-security-architecture.md)
 
 ## Disclaimer
 
