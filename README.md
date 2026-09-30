@@ -34,6 +34,9 @@ The goal of this repository is to provide reusable resources that help teams int
 - [Cloud IAM Architecture Review](cloud-security/cloud-iam-architecture-review.md)
 - [Multi-Cloud Security Architecture](cloud-security/multi-cloud-security-architecture.md)
 
+### API Security
+- [API Security Architecture Review](api-security/api-security-architecture-review.md)
+
 ## Disclaimer
 
 The content in this repository reflects personal views and industry practices. It does not represent the views of any employer, customer, or organization.
