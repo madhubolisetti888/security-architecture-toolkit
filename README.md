@@ -17,8 +17,8 @@ The goal of this repository is to provide reusable resources that help teams int
 ## Available Resources
 
 ### Architecture Review
-
-- [Architecture Review Checklist](architecture-review/security-questions.md)
+- [Security Architecture Review — 10 Questions](architecture-review/security-questions.md)
+- [Threat Modeling — Security Architecture Review](architecture-review/threat-modeling-review.md)
 
 ### Zero Trust
 
