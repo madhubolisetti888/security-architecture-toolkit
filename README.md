@@ -18,7 +18,9 @@ The goal of this repository is to provide reusable resources that help teams int
 
 ### Architecture Review
 - [Security Architecture Review — 10 Questions](architecture-review/security-questions.md)
+- [Design for Compromise](architecture-review/design-for-compromise.md)
 - [Threat Modeling — Security Architecture Review](architecture-review/threat-modeling-review.md)
+- [Attack Path Analysis](architecture-review/attack-path-analysis.md)
 
 ### Zero Trust
 
