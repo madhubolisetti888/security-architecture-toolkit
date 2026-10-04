@@ -21,6 +21,7 @@ The goal of this repository is to provide reusable resources that help teams int
 - [Design for Compromise](architecture-review/design-for-compromise.md)
 - [Threat Modeling — Security Architecture Review](architecture-review/threat-modeling-review.md)
 - [Attack Path Analysis](architecture-review/attack-path-analysis.md)
+- [Blast Radius Assessment](architecture-review/blast-radius-assessment.md)
 
 ### Zero Trust
 
