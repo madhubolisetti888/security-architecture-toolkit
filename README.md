@@ -22,6 +22,7 @@ The goal of this repository is to provide reusable resources that help teams int
 - [Threat Modeling — Security Architecture Review](architecture-review/threat-modeling-review.md)
 - [Attack Path Analysis](architecture-review/attack-path-analysis.md)
 - [Blast Radius Assessment](architecture-review/blast-radius-assessment.md)
+- [Security Architecture Decision Record](architecture-review/security-architecture-decision-record.md)
 
 ### Zero Trust
 
