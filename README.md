@@ -24,6 +24,7 @@ The goal of this repository is to provide reusable resources that help teams int
 - [Blast Radius Assessment](architecture-review/blast-radius-assessment.md)
 - [Security Architecture Decision Record](architecture-review/security-architecture-decision-record.md)
 
+- [Security Resilience Assessment](architecture-review/security-resilience-assessment.md)
 ### Zero Trust
 
 - [Zero Trust Architecture Assessment](zero-trust/zero-trust-assessment.md)
