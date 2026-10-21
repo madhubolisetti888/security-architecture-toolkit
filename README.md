@@ -25,8 +25,9 @@ The goal of this repository is to provide reusable resources that help teams int
 - [Security Architecture Decision Record](architecture-review/security-architecture-decision-record.md)
 - [Security Architecture Trade-off Assessment](architecture-review/security-architecture-tradeoff-assessment.md)
 - [Security Architecture Pattern Assessment](architecture-review/security-architecture-pattern-assessment.md)
-
+- [Security Policy and Enforcement Assessment](architecture-review/security-policy-enforcement-assessment.md)
 - [Security Resilience Assessment](architecture-review/security-resilience-assessment.md)
+
 ### Zero Trust
 
 - [Zero Trust Architecture Assessment](zero-trust/zero-trust-assessment.md)
