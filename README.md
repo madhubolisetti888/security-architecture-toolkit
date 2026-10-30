@@ -27,6 +27,7 @@ The goal of this repository is to provide reusable resources that help teams int
 - [Security Architecture Pattern Assessment](architecture-review/security-architecture-pattern-assessment.md)
 - [Security Policy and Enforcement Assessment](architecture-review/security-policy-enforcement-assessment.md)
 - [Security Resilience Assessment](architecture-review/security-resilience-assessment.md)
+- [Security Architecture Governance Assessment](architecture-review/security-architecture-governance-assessment.md)
 
 ### Zero Trust
 
