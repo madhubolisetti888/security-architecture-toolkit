@@ -29,6 +29,9 @@ The goal of this repository is to provide reusable resources that help teams int
 - [Security Resilience Assessment](architecture-review/security-resilience-assessment.md)
 - [Security Architecture Governance Assessment](architecture-review/security-architecture-governance-assessment.md)
 
+## Enterprise Security Architecture
+- [Enterprise Security Architecture Framework](enterprise-architecture/enterprise-security-architecture-framework.md)
+
 ### Zero Trust
 
 - [Zero Trust Architecture Assessment](zero-trust/zero-trust-assessment.md)
